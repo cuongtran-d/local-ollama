@@ -11,7 +11,7 @@
 
 * Easy Docker Way  [github.com/open-webui](https://github.com/open-webui/open-webui?tab=readme-ov-file#installation-with-default-configuration)
 
-### 2.1 Open WebUI with Search Engine Access
+#### 2.1 Open WebUI with Search Engine Access
 * Admin Panel -> Settings -> Websearch
 * Google_PSE
   * create a google [PSE Account](https://programmablesearchengine.google.com/)
@@ -20,7 +20,7 @@
   * get api key
   * copy api key and engine Id into Web Search Settings
 
-### 2.2 Integration with IDE (Jetbrains)
+#### 2.2 Integration with IDE (Jetbrains)
 
 * go to settings -> plugins
 * search in marketplace for codeGPT
